@@ -21,10 +21,3 @@ The dataset features curated hotel data across 4 countries:
 * **Data Preprocessing:** Cleaned and structured multi-country hotel datasets to ensure high recommendation accuracy.
 * **Machine Learning Pipeline:** Trained a **KNN model** to compute feature distances, outputting the top 5 closest matches alongside their compatibility percentages.
 * **User Interfaces (GUI):** Built functional **Web** and **Application** dashboards for seamless filtering and interactive hotel exploration.
-
----
-
-## 🔗 **Project Links**
-
-* 🌐 **Website Link:** [Click Here to Visit](YOUR_WEBSITE_LINK_HERE)
-* 📱 **Application Link:** [Click Here to Visit](YOUR_APP_LINK_HERE)
