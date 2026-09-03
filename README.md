@@ -4,7 +4,7 @@
 
 ## 📌 **About The Project**
 
-**TravelMate** is an intelligent hotel recommendation system designed to help users find the most suitable hotel based on their personal preferences and selected features.
+**TravelMate** is an intelligent hotel recommendation system designed to help users find the most suitable hotel based on their personal preferences and selected features
 
 Powered by the **K-Nearest Neighbors (KNN)** machine learning algorithm, the system analyzes user inputs to calculate similarities and recommend the **top 5 matching hotels**, along with a precise **match percentage (%)** for each result.
 
