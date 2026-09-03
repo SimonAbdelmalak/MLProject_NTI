@@ -18,18 +18,9 @@ The dataset features curated hotel data across 4 countries:
 
 # 🏨 Hotel Value Prediction & Management System
 An end-to-end Machine Learning project to clean, process, and predict hotel valuation and ratings using multiple regression techniques, integrated with an intuitive Graphical User Interface (GUI).
----
-## 👥 Team & Responsibilities
-
-| Role / Task | Responsible Member | Details |
-| :--- | :--- | :--- |
-| **Data Preprocessing** | **Simon** | Data cleaning, handling duplicates, missing values imputation, text normalization (regex), and feature engineering. |
-| **Model 1 (Linear Regression)** | **Marian** | Implementation and fitting of the baseline and linear regression pipelines. |
-| **Model 2 (Random Forest)** | **Martina** | Training and configuring the Random Forest Regressor and handling hyperparameter setups. |
-| **Prediction & Accuracy** | **Marian & Martina** | Model evaluation, metric calculations (MAE, RMSE, $R^2$), and model comparison. |
-| **GUI Development** | **Ganna & Mariam** | Designing and integrating the graphical user interface for real-time predictions. |
 
 ---
+
 ## 🛠️ Project Workflow
 1. **Data Cleaning & Exploration:**
    - Handled missing attributes and removed broken records.
