@@ -21,6 +21,28 @@ An end-to-end Machine Learning project to clean, process, and predict hotel valu
 
 ---
 
+## 🛠️ Project Workflow
+
+### 1. Data Cleaning & Exploration
+* Handled missing attributes and removed broken records.
+* Cleansed HTML tags and formatted descriptions & facilities.
+* Deduplicated entries using unique HotelCode identifiers.
+* Extracted coordinates (`Latitude` & `Longitude`) from map fields.
+
+### 2. Feature Engineering & Transformation
+* Extracted features like FacilitiesCount and DescriptionLength.
+* Built robust scikit-learn pipelines with StandardScaler and OneHotEncoder.
+
+### 3. Machine Learning Models
+* Baseline: Dummy Regressor (Mean strategy).
+* Model 1: Linear Regression (Achieved top performance with $R^2 \approx 0.86$).
+* Model 2: Random Forest Regressor (Ensemble of 100 decision trees).
+
+### 4. Graphical User Interface (GUI)
+* User-friendly interface allowing users to input hotel specifications and get instant value estimates.
+  
+---
+
 ## 📊 Evaluation Results
 
 | Model | MAE | RMSE | $R^2$ |
